@@ -17,6 +17,7 @@ export function Blog() {
 
   return (
     <div style={{ padding: 8 }}>
+      <h1>Blog Application</h1>
       <CreatePost />
       <hr />
       Filter by:
